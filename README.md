@@ -1,5 +1,5 @@
 # Java_Exercise
 dafma
-dsafa
+dsafa \n
 *sa
 *sa
